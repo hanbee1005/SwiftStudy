@@ -73,6 +73,7 @@ thumbUp = "\u{1F600}" // use unicode scala value
  */
 
 let loremIpsum = "Lorem ipsum dolor sit amet, consectetur adipooscing elit, sed do eiusmod \n tempor incididunct ut labore et dolore magna aliqua."
+print(loremIpsum)
 
 // multiline String Literal 은 항상 새로운 라인에서 시작해야 함. """ 다음에 문자열 시작
 // 마지막 """ 은 단독으로 있어야 하고 첫번째 줄과 같거나 왼쪽에 있어야 함. (들여쓰기의 기준이 되기 때문)

@@ -45,6 +45,7 @@ ss
 
 // 대소문자 비교 없이 값을 찾아 변경
 ss = str3.replacingOccurrences(of: "swift", with: "Awesome Swift", options: [.caseInsensitive])
+ss
 
 // Removing Substrings
 var str4 = "Hello, Awesome Swift!!!"
